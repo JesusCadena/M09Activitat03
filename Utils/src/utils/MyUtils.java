@@ -85,9 +85,9 @@ public static int edat (int day, int month, int year)
  */
 public static double factorial (double numero) {
  
-if (numero==0)
+if (numero==0){
 return 1;
-else
+}else
 {
 double resultat = numero * factorial(numero-1);
 return resultat;
