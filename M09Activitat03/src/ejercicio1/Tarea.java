@@ -21,7 +21,8 @@ public class Tarea implements Callable{
     
     @Override
     public Object call() throws Exception {
+       System.out.println(Thread.currentThread().getName()+" ");
        return (this.num%2==0)&&(this.num%3==0);
-    
+       
     } 
 }
