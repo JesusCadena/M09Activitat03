@@ -10,9 +10,9 @@ package utils;
  *
  * @author ALUMNEDAM
  */
-public class InverteixError extends Exception {
+public class InverteixErrorException extends Exception {
 
-    public InverteixError() {
-        super(" La palabra no es valida: ");
+    public InverteixErrorException() {
+        super(" La palabra no es valida ");
     }
 }

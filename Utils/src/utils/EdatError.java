@@ -11,8 +11,6 @@ package utils;
  */
 public class EdatError extends Exception{
 
-    public EdatError() {
-        super();
-    }
-} 
+    
+ 
 }

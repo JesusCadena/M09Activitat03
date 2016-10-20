@@ -21,6 +21,9 @@ public class MyUtils {
  * @param cadena Strint cadena que es vol invertir
  * @return cadena invertida (null per cadenes nulls).
  */
+public MyUtils() {
+        super();
+}
 public static String inverteix (String cadena)
 {
     String resultat="";
