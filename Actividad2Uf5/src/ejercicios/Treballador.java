@@ -11,6 +11,24 @@ package ejercicios;
  */
 public class Treballador {
 
-   
+    static boolean DIRECTOR;
+    static boolean SUBDIRECTOR;
+
+    public Treballador() {
+    }
+    public void TipusTreballador(){
+    }
+
+    boolean getTipusTreballador() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    float getNomina() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    int getHoresExtres() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
