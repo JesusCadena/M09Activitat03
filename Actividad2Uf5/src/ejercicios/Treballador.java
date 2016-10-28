@@ -10,13 +10,19 @@ package ejercicios;
  * @author ALUMNEDAM
  */
 public class Treballador {
-
-    static boolean DIRECTOR;
+    static boolean TREBALLADOR;
     static boolean SUBDIRECTOR;
+    static boolean DIRECTOR;
+    private double nomina;
+    private int id;
+    private boolean tipusTreballador;
 
     public Treballador() {
+        
     }
+    
     public void TipusTreballador(){
+        
     }
 
     boolean getTipusTreballador() {

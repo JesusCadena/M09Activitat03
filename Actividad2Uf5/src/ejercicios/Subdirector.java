@@ -10,5 +10,5 @@ package ejercicios;
  * @author ALUMNEDAM
  */
 public class Subdirector {
-    
+
 }

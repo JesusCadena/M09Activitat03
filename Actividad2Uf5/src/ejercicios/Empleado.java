@@ -10,5 +10,6 @@ package ejercicios;
  * @author ALUMNEDAM
  */
 public class Empleado {
+     
     
 }

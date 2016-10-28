@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Collection;
 
-public class CostPersonal {
+public class CostPersonal extends Treballador{
 
 	static float CostDelPersonal(Treballador treballadors[]) {
 		float costFinal = 0;
